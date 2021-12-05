@@ -86,7 +86,7 @@ body {
 #emoji::placeholder {
   text-align: center;
   font-size: 1.6rem;
-  opacity: 60%;
+  opacity: .6;
 }
 
 .emoji-button {
